@@ -13,3 +13,4 @@ app.use(router)
 
 app.mount('#app')
 console.log('测试revert第一次')
+console.log('测试revert第二次')
